@@ -160,6 +160,8 @@ body {
   background-color: #da042bbf;
 }
 
+/* Responsive Styles */
+
 @media (max-width: 820px) {
   .home-button {
     top: 5px;
